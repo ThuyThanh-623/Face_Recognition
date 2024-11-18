@@ -70,4 +70,3 @@ Lớp `SimpleFacerec` cung cấp các phương thức để tải và mã hóa k
 ---
 
 Mong nhận được thêm đóng góp của bạn!
-```
