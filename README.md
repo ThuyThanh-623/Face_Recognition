@@ -19,7 +19,7 @@ Báo cáo này trình bày việc ứng dụng thư viện `face_recognition` đ
 4. **Xác định các đặc điểm trên khuôn mặt**:
    - Phát hiện các điểm đặc trưng trên khuôn mặt như mắt, mũi, miệng, và cằm.
 
-## Cài đặt và Chạy Chương Trình
+## Cài đặt và chạy chương trình
 
 ### Cài đặt thư viện
 
@@ -50,12 +50,12 @@ Lớp `SimpleFacerec` cung cấp các phương thức để tải và mã hóa k
 - Sử dụng webcam hoặc video để phát hiện và nhận diện khuôn mặt theo thời gian thực.
 - Hiển thị tên của người trong khuôn mặt hoặc nhãn "Unknown" nếu khuôn mặt không có trong tập dữ liệu đã biết.
 
-## Kết quả Đạt được
+## Kết quả đạt được
 
 - Chương trình nhận diện được 3 khuôn mặt đã được mã hóa và gán nhãn tên. 
 - Các khuôn mặt không có trong tập dữ liệu sẽ được gán nhãn "Unknown".
 
-## Ưu điểm và Hạn chế
+## Ưu điểm và hạn chế
 
 ### Ưu điểm:
 - **Tính đơn giản và dễ hiểu**: Mã nguồn rõ ràng, dễ dàng mở rộng và tùy chỉnh cho các dự án khác.
